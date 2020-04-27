@@ -2,7 +2,7 @@
 #include "Stack.h"
 #include "LinkedList.h"
 
-typedef char llt;
+typedef double llt;
 
 void prnMenu(){
 	cout<<"*******************************************"<<endl;
